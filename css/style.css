@@ -76,6 +76,7 @@ main .container .dashboard .user__inner .user-img:hover {
 }
 main .container .dashboard .user__inner__details {
   margin-right: 0.7rem;
+  margin-left:1rem;
 }
 main .container .dashboard .user__inner__details h2 {
   font-size: 1.7rem;
